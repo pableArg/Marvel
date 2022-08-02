@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MarvelData</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MarvelHeroes">Marvel Heroes</string>
+    <string name="us_name_image">image</string>
+    <string name="us_name">Name</string>
+    <string name="txtDescription">hola q tal</string>
+    <string name="textError">Error al cargar la informacion</string>
+    <string name="actionText">RETRY</string>
+    <!-- API DATA -->
+    <string name="PUBLIC_KEY">36d6e66d8e369f1a6ef8d3358fd9810c</string>
+    <string name="PRIVATE_KEY">fb9fecbe049d4156287734094a7fc7f42426e369</string>
+    <string name="error_400">Error al cargar la lista</string>
+    <string name="error_500">Intentelo mas tarde</string>
+    <string name="error">Error</string>
+    <string name="error_io_exception">Error reintentelo</string>
+    <string name="txtTitleComic">Title Comic</string>
+</resources>
